@@ -8,13 +8,13 @@ A handy starter Sketch App template with all elements for a quick setup of the L
 * Tables
 * Tabs
 * Elements
-**  Buttons
-**  Selectboxes
-**  Radio buttons
-**  Input fields
-**  Autocomplete
-**  Textarea
-**  Select
+  - Buttons
+  - Selectboxes
+  - Radio buttons
+  - Input fields
+  - Autocomplete
+  - Textarea
+  - Select
 * more to come...
 
 Feel free to add your own elements. Please let me know if you have improvements or additional features.
